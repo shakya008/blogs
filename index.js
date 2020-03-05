@@ -15,7 +15,7 @@ async function getTitle(url) {
 	})
 }
 getTitle(url).then(res => {
-	const text = `[${res}](${url})\n`;
+	const text = `[${res}](${url})  \n`;
 	writeToFile(text);
 })
 
