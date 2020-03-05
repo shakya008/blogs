@@ -9,13 +9,13 @@ console.log(url);
 
 async function getTitle(url) {
 	return rp(url).then(htmlString => {
-		const matched = htmlString.match(/<title>(.*?)<\/title>/);
+		const matched = htmlString.match(/<title\s*.*?>(.*?)<\/title>/);
 		console.log(matched[1]);
 		return matched[1];
 	})
 }
 getTitle(url).then(res => {
-	const text = `[${res}](${url})`;
+	const text = `[${res}](${url})\n`;
 	writeToFile(text);
 })
 
