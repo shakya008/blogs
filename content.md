@@ -1,3 +1,7 @@
 [Lazy Loading Images – The Complete Guide](https://imagekit.io/blog/lazy-loading-images-complete-guide/#)  
 [request-promise  -  npm](https://www.npmjs.com/package/request-promise)  
 [request-promise  -  npm](https://www.npmjs.com/package/request-promise)  
+[Efficiently load JavaScript with defer and async](https://flaviocopes.com/javascript-async-defer/)  
+[Eliminate Render-Blocking JavaScript with Async and Defer](https://alligator.io/html/defer-async/)  
+[Preload, Prefetch And Priorities in Chrome - reloading - Medium](https://medium.com/reloading/preload-prefetch-and-priorities-in-chrome-776165961bbf)  
+[Using Preload and Prefetch in Your HTML to Load Assets &larr; Alligator.io](https://alligator.io/html/preload-prefetch/)  
