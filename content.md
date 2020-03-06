@@ -5,3 +5,4 @@
 [Eliminate Render-Blocking JavaScript with Async and Defer](https://alligator.io/html/defer-async/)  
 [Preload, Prefetch And Priorities in Chrome - reloading - Medium](https://medium.com/reloading/preload-prefetch-and-priorities-in-chrome-776165961bbf)  
 [Using Preload and Prefetch in Your HTML to Load Assets &larr; Alligator.io](https://alligator.io/html/preload-prefetch/)  
+[Resource Prioritization – Getting the Browser to Help You](https://developers.google.com/web/fundamentals/performance/resource-prioritization)  
