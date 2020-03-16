@@ -10,3 +10,4 @@
 [Critical rendering path - An in-depth guide](https://varvy.com/pagespeed/critical-render-path.html)  
 [Understanding the Critical Rendering Path](https://bitsofco.de/understanding-the-critical-rendering-path/)  
 [Understanding the critical rendering path, rendering pages in 1 second](https://medium.com/@luisvieira_gmr/understanding-the-critical-rendering-path-rendering-pages-in-1-second-735c6e45b47a)  
+[text-security  -  npm](https://www.npmjs.com/package/text-security)  
