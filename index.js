@@ -48,7 +48,7 @@ function generateContent() {
 				const type = val[0].type;
 				str =
 					str +
-					`#${type}\n` +
+					`## ${type}\n` +
 					map(item => {
 						return `[${item.title}](${item.url})  \n`;
 					}, val).join("");
