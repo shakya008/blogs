@@ -13,5 +13,50 @@
     "type": "Web Optimization",
     "url": "https://flaviocopes.com/javascript-async-defer",
     "title": "Efficiently load JavaScript with defer and async"
+  },
+  {
+    "type": "Node Modules",
+    "url": "https://www.npmjs.com/package/text-security",
+    "title": "text-security  -  npm"
+  },
+  {
+    "type": "Web Optimization",
+    "url": "https://alligator.io/html/defer-async",
+    "title": "Eliminate Render-Blocking JavaScript with Async and Defer"
+  },
+  {
+    "type": "Web Optimization",
+    "url": "https://medium.com/reloading/preload-prefetch-and-priorities-in-chrome-776165961bbf",
+    "title": "Preload, Prefetch And Priorities in Chrome - reloading - Medium"
+  },
+  {
+    "type": "Web Optimization",
+    "url": "https://alligator.io/html/preload-prefetch",
+    "title": "Using Preload and Prefetch in Your HTML to Load Assets &larr; Alligator.io"
+  },
+  {
+    "type": "Web Optimization",
+    "url": "https://developers.google.com/web/fundamentals/performance/resource-prioritization",
+    "title": "Resource Prioritization – Getting the Browser to Help You"
+  },
+  {
+    "type": "Web Optimization",
+    "url": "https://developers.google.com/web/fundamentals/performance/critical-rendering-path/render-blocking-css",
+    "title": "Render Blocking CSS &nbsp;|&nbsp; Web Fundamentals &nbsp;|&nbsp; Google Developers"
+  },
+  {
+    "type": "Web Optimization",
+    "url": "https://varvy.com/pagespeed/critical-render-path.html",
+    "title": "Critical rendering path - An in-depth guide"
+  },
+  {
+    "type": "Web Optimization",
+    "url": "https://bitsofco.de/understanding-the-critical-rendering-path",
+    "title": "Understanding the Critical Rendering Path"
+  },
+  {
+    "type": "Web Optimization",
+    "url": "https://medium.com/@luisvieira_gmr/understanding-the-critical-rendering-path-rendering-pages-in-1-second-735c6e45b47a",
+    "title": "Understanding the critical rendering path, rendering pages in 1 second"
   }
 ]
