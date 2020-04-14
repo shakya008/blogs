@@ -1,1 +1,11 @@
-["Angular", "JavaScript", "Web Optimization", "Node Modules", "HTTP"]
+{
+	"ds": ["Matrix", "Graph", "Heap"],
+	"blogs": [
+		"Angular",
+		"JavaScript",
+		"Web Optimization",
+		"Node Modules",
+		"HTTP",
+		"Best Practices"
+	]
+}

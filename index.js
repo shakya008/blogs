@@ -4,19 +4,45 @@ const readline = require("readline");
 const argv = require("yargs");
 var rp = require("request-promise");
 const path = require("path");
-const url = get("[2]", process.argv);
 const savedUrls = require("./savedUrls");
-const types = require("./types");
-const store = require("./store");
+let types = [];
+let store = [];
+let storeName = "blogs";
+let contentFile = "README";
+
+argv
+	.command(
+		"blogs",
+		"",
+		() => {},
+		(args) => {
+			store = require("./blogs");
+			types = require("./types").blogs;
+			processUrl(args.url).then();
+		}
+	)
+	.command(
+		"ds",
+		"",
+		() => {},
+		(args) => {
+			store = require("./ds");
+			types = require("./types").ds;
+			storeName = "ds";
+			contentFile = "datastructure";
+			console.log(args);
+			processUrl(args.url).then();
+		}
+	).argv;
 
 async function getTitle(url) {
-	return rp(url).then(htmlString => {
+	return rp(url).then((htmlString) => {
 		const matched = htmlString.match(/<title\s*.*?>(.*?)<\/title>/);
 		return matched[1];
 	});
 }
 
-async function processUrl() {
+async function processUrl(url) {
 	let res = await getTitle(url);
 	if (existance(url)) {
 		console.log("This url is already saved.");
@@ -27,7 +53,7 @@ async function processUrl() {
 	const val = {
 		type: selectedType,
 		url: url,
-		title: res
+		title: res,
 	};
 	store.push(val);
 	writeToStore();
@@ -36,20 +62,20 @@ async function processUrl() {
 }
 
 function writeToStore() {
-	fs.writeFileSync("./store.json", JSON.stringify(store, null, 2));
+	fs.writeFileSync(`./${storeName}.json`, JSON.stringify(store, null, 2));
 }
-function generateContent() {
-	const file = path.join(__dirname, "README.md");
+function generateContent(url) {
+	const file = path.join(__dirname, `${contentFile}.md`);
 	const text = pipe(
 		groupBy("type"),
-		o => {
+		(o) => {
 			let str = "";
 			forOwn(function(val) {
 				const type = val[0].type;
 				str =
 					str +
 					`## ${type}\n` +
-					map(item => {
+					map((item) => {
 						return `[${item.title}](${item.url})  \n`;
 					}, val).join("");
 			}, o);
@@ -60,7 +86,7 @@ function generateContent() {
 }
 
 function existance(url) {
-	return savedUrls.some(savedUrl => url === savedUrl);
+	return savedUrls.some((savedUrl) => url === savedUrl);
 }
 
 function saveUrl(url) {
@@ -72,9 +98,9 @@ async function takeResponse(query) {
 	return new Promise((resolve, reject) => {
 		var rl = readline.createInterface({
 			input: process.stdin,
-			output: process.stdout
+			output: process.stdout,
 		});
-		rl.question(query, res => {
+		rl.question(query, (res) => {
 			rl.close();
 			resolve(res);
 		});
@@ -88,5 +114,3 @@ async function getType(argument) {
 	);
 	return types[selectedType];
 }
-
-processUrl().then();
