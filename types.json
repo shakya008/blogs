@@ -1,5 +1,15 @@
 {
-	"ds": ["Matrix", "Graph", "Heap"],
+	"ds": [
+		"Matrix",
+		"Graph",
+		"Heap",
+		"Array",
+		"Stack",
+		"Queue",
+		"Binary Tree",
+		"Search",
+		"String"
+	],
 	"blogs": [
 		"Angular",
 		"JavaScript",

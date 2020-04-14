@@ -30,7 +30,6 @@ argv
 			types = require("./types").ds;
 			storeName = "ds";
 			contentFile = "datastructure";
-			console.log(args);
 			processUrl(args.url).then();
 		}
 	).argv;

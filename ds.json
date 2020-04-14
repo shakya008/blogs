@@ -3,5 +3,25 @@
     "type": "Matrix",
     "url": "https://www.geeksforgeeks.org/search-in-row-wise-and-column-wise-sorted-matrix/",
     "title": "Search in a row wise and column wise sorted matrix - GeeksforGeeks"
+  },
+  {
+    "type": "Matrix",
+    "url": "https://www.geeksforgeeks.org/print-a-given-matrix-in-spiral-form/",
+    "title": "Print a given matrix in spiral form - GeeksforGeeks"
+  },
+  {
+    "type": "Matrix",
+    "url": "https://www.geeksforgeeks.org/find-maximum-element-row-matrix/",
+    "title": "Find maximum element of each row in a matrix - GeeksforGeeks"
+  },
+  {
+    "type": "Matrix",
+    "url": "https://www.geeksforgeeks.org/sort-matrix-row-wise-column-wise/",
+    "title": "Sort the matrix row-wise and column-wise - GeeksforGeeks"
+  },
+  {
+    "type": "Matrix",
+    "url": "https://www.geeksforgeeks.org/print-given-matrix-counter-clock-wise-spiral-form/",
+    "title": "Print a given matrix in counter-clock wise spiral form - GeeksforGeeks"
   }
 ]
