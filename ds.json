@@ -23,5 +23,20 @@
     "type": "Matrix",
     "url": "https://www.geeksforgeeks.org/print-given-matrix-counter-clock-wise-spiral-form/",
     "title": "Print a given matrix in counter-clock wise spiral form - GeeksforGeeks"
+  },
+  {
+    "type": "Heap",
+    "url": "https://www.geeksforgeeks.org/k-largestor-smallest-elements-in-an-array/",
+    "title": "k largest(or smallest) elements in an array | added Min Heap method - GeeksforGeeks"
+  },
+  {
+    "type": "Heap",
+    "url": "https://www.geeksforgeeks.org/kth-smallestlargest-element-unsorted-array/",
+    "title": "K&#039;th Smallest/Largest Element in Unsorted Array | Set 1 - GeeksforGeeks"
+  },
+  {
+    "type": "Heap",
+    "url": "https://www.geeksforgeeks.org/nearly-sorted-algorithm/",
+    "title": "Sort a nearly sorted (or K sorted) array - GeeksforGeeks"
   }
 ]
