@@ -38,5 +38,75 @@
     "type": "Heap",
     "url": "https://www.geeksforgeeks.org/nearly-sorted-algorithm/",
     "title": "Sort a nearly sorted (or K sorted) array - GeeksforGeeks"
+  },
+  {
+    "type": "Matrix",
+    "url": "https://www.geeksforgeeks.org/swap-major-minor-diagonals-square-matrix/",
+    "title": "Swap major and minor diagonals of a square matrix - GeeksforGeeks"
+  },
+  {
+    "type": "Matrix",
+    "url": "https://www.geeksforgeeks.org/rotate-matrix-elements/",
+    "title": "Rotate Matrix Elements - GeeksforGeeks"
+  },
+  {
+    "type": "Matrix",
+    "url": "https://www.geeksforgeeks.org/rotate-matrix-right-k-times/?ref=rp",
+    "title": "Rotate the matrix right by K times - GeeksforGeeks"
+  },
+  {
+    "type": "Matrix",
+    "url": "https://www.geeksforgeeks.org/rotate-matrix-180-degree/?ref=rp",
+    "title": "Rotate a Matrix by 180 degree - GeeksforGeeks"
+  },
+  {
+    "type": "Matrix",
+    "url": "https://www.geeksforgeeks.org/rotate-matrix-90-degree-without-using-extra-space-set-2/?ref=rp",
+    "title": "Rotate a matrix by 90 degree without using any extra space | Set 2 - GeeksforGeeks"
+  },
+  {
+    "type": "Matrix",
+    "url": "https://www.geeksforgeeks.org/check-rows-matrix-circular-rotations/",
+    "title": "Check if all rows of a matrix are circular rotations of each other - GeeksforGeeks"
+  },
+  {
+    "type": "Stack",
+    "url": "https://www.geeksforgeeks.org/postfix-to-infix/",
+    "title": "Postfix to Infix - GeeksforGeeks"
+  },
+  {
+    "type": "Stack",
+    "url": "https://www.geeksforgeeks.org/stack-set-2-infix-to-postfix/",
+    "title": "Stack | Set 2 (Infix to Postfix) - GeeksforGeeks"
+  },
+  {
+    "type": "Stack",
+    "url": "https://www.geeksforgeeks.org/prefix-infix-conversion/",
+    "title": "Prefix to Infix Conversion - GeeksforGeeks"
+  },
+  {
+    "type": "Stack",
+    "url": "https://www.geeksforgeeks.org/prefix-postfix-conversion/",
+    "title": "Prefix to Postfix Conversion - GeeksforGeeks"
+  },
+  {
+    "type": "Stack",
+    "url": "https://www.geeksforgeeks.org/postfix-prefix-conversion/",
+    "title": "Postfix to Prefix Conversion - GeeksforGeeks"
+  },
+  {
+    "type": "Stack",
+    "url": "https://www.geeksforgeeks.org/the-stock-span-problem/",
+    "title": "The Stock Span Problem - GeeksforGeeks"
+  },
+  {
+    "type": "Stack",
+    "url": "https://www.geeksforgeeks.org/next-greater-element/",
+    "title": "Next Greater Element - GeeksforGeeks"
+  },
+  {
+    "type": "Stack",
+    "url": "https://www.geeksforgeeks.org/delete-middle-element-stack/",
+    "title": "Delete middle element of a stack - GeeksforGeeks"
   }
 ]
