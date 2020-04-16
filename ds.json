@@ -108,5 +108,30 @@
     "type": "Stack",
     "url": "https://www.geeksforgeeks.org/delete-middle-element-stack/",
     "title": "Delete middle element of a stack - GeeksforGeeks"
+  },
+  {
+    "type": "Stack",
+    "url": "https://www.geeksforgeeks.org/reverse-a-stack-using-recursion/",
+    "title": "Reverse a stack using recursion - GeeksforGeeks"
+  },
+  {
+    "type": "Stack",
+    "url": "https://www.geeksforgeeks.org/sort-a-stack-using-recursion/",
+    "title": "Sort a stack using recursion - GeeksforGeeks"
+  },
+  {
+    "type": "Stack",
+    "url": "https://www.geeksforgeeks.org/sort-stack-using-temporary-stack/",
+    "title": "Sort a stack using a temporary stack - GeeksforGeeks"
+  },
+  {
+    "type": "Stack",
+    "url": "https://www.geeksforgeeks.org/reverse-individual-words/",
+    "title": "Reverse individual words - GeeksforGeeks"
+  },
+  {
+    "type": "Sorting",
+    "url": "https://www.geeksforgeeks.org/counting-inversions/",
+    "title": "Count Inversions in an array | Set 1 (Using Merge Sort) - GeeksforGeeks"
   }
 ]

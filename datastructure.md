@@ -23,3 +23,9 @@
 [The Stock Span Problem - GeeksforGeeks](https://www.geeksforgeeks.org/the-stock-span-problem/)  
 [Next Greater Element - GeeksforGeeks](https://www.geeksforgeeks.org/next-greater-element/)  
 [Delete middle element of a stack - GeeksforGeeks](https://www.geeksforgeeks.org/delete-middle-element-stack/)  
+[Reverse a stack using recursion - GeeksforGeeks](https://www.geeksforgeeks.org/reverse-a-stack-using-recursion/)  
+[Sort a stack using recursion - GeeksforGeeks](https://www.geeksforgeeks.org/sort-a-stack-using-recursion/)  
+[Sort a stack using a temporary stack - GeeksforGeeks](https://www.geeksforgeeks.org/sort-stack-using-temporary-stack/)  
+[Reverse individual words - GeeksforGeeks](https://www.geeksforgeeks.org/reverse-individual-words/)  
+## Sorting
+[Count Inversions in an array | Set 1 (Using Merge Sort) - GeeksforGeeks](https://www.geeksforgeeks.org/counting-inversions/)  
