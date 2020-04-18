@@ -29,3 +29,30 @@
 [Reverse individual words - GeeksforGeeks](https://www.geeksforgeeks.org/reverse-individual-words/)  
 ## Sorting
 [Count Inversions in an array | Set 1 (Using Merge Sort) - GeeksforGeeks](https://www.geeksforgeeks.org/counting-inversions/)  
+[QuickSort - GeeksforGeeks](https://www.geeksforgeeks.org/quick-sort/)  
+[Merge Sort - GeeksforGeeks](https://www.geeksforgeeks.org/merge-sort/)  
+[Efficient search in an array where difference between adjacent is 1 - GeeksforGeeks](https://www.geeksforgeeks.org/efficient-search-in-an-array-where-difference-between-adjacent-is-1/?ref=rp)  
+[Sort an array of 0s, 1s and 2s - GeeksforGeeks](https://www.geeksforgeeks.org/sort-an-array-of-0s-1s-and-2s/)  
+[Find the Minimum length Unsorted Subarray, sorting which makes the complete array sorted - GeeksforGeeks](https://www.geeksforgeeks.org/minimum-length-unsorted-subarray-sorting-which-makes-the-complete-array-sorted/)  
+[Count all distinct pairs with difference equal to k - GeeksforGeeks](https://www.geeksforgeeks.org/count-pairs-difference-equal-k/)  
+[Sort an array in wave form - GeeksforGeeks](https://www.geeksforgeeks.org/sort-array-wave-form-2/)  
+[Find the point where maximum intervals overlap - GeeksforGeeks](https://www.geeksforgeeks.org/find-the-point-where-maximum-intervals-overlap/)  
+[Find missing elements of a range - GeeksforGeeks](https://www.geeksforgeeks.org/find-missing-elements-of-a-range/)  
+[Minimum sum of two numbers formed from digits of an array - GeeksforGeeks](https://www.geeksforgeeks.org/minimum-sum-two-numbers-formed-digits-array/)  
+[Sort an array according to count of set bits - GeeksforGeeks](https://www.geeksforgeeks.org/sort-array-according-count-set-bits/)  
+[Number of swaps to sort when only adjacent swapping allowed - GeeksforGeeks](https://www.geeksforgeeks.org/number-swaps-sort-adjacent-swapping-allowed/)  
+[Chocolate Distribution Problem - GeeksforGeeks](https://www.geeksforgeeks.org/chocolate-distribution-problem/)  
+[Sort even-placed elements in increasing and odd-placed in decreasing order - GeeksforGeeks](https://www.geeksforgeeks.org/sort-even-placed-elements-increasing-odd-placed-decreasing-order/)  
+[Sort an array when two halves are sorted - GeeksforGeeks](https://www.geeksforgeeks.org/sort-array-two-halves-sorted/)  
+## Linklist
+[Sort a linked list that is sorted alternating ascending and descending orders? - GeeksforGeeks](https://www.geeksforgeeks.org/how-to-sort-a-linked-list-that-is-sorted-alternating-ascending-and-descending-orders/)  
+## Array
+[Reversal algorithm for array rotation - GeeksforGeeks](https://www.geeksforgeeks.org/program-for-array-rotation-continued-reversal-algorithm/)  
+[Minimum sum of differences with an element in an array - GeeksforGeeks](https://www.geeksforgeeks.org/minimum-sum-of-differences-with-an-element-in-an-array/)  
+[Median of two sorted arrays of different sizes | Set 1 (Linear) - GeeksforGeeks](https://www.geeksforgeeks.org/median-of-two-sorted-arrays-of-different-sizes-set-1-linear/)  
+## Graph
+[Minimum number of swaps required to sort an array - GeeksforGeeks](https://www.geeksforgeeks.org/minimum-number-swaps-required-sort-array/)  
+## Search
+[Ceiling in a sorted array - GeeksforGeeks](https://www.geeksforgeeks.org/ceiling-in-a-sorted-array/)  
+[Count number of occurrences (or frequency) in a sorted array - GeeksforGeeks](https://www.geeksforgeeks.org/count-number-of-occurrences-or-frequency-in-a-sorted-array/)  
+[Find a Fixed Point (Value equal to index) in a given array - GeeksforGeeks](https://www.geeksforgeeks.org/find-a-fixed-point-in-a-given-array/)  
