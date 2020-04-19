@@ -248,5 +248,75 @@
     "type": "Search",
     "url": "https://www.geeksforgeeks.org/find-a-fixed-point-in-a-given-array/",
     "title": "Find a Fixed Point (Value equal to index) in a given array - GeeksforGeeks"
+  },
+  {
+    "type": "Search",
+    "url": "https://www.geeksforgeeks.org/find-the-maximum-element-in-an-array-which-is-first-increasing-and-then-decreasing/",
+    "title": "Find the maximum element in an array which is first increasing and then decreasing - GeeksforGeeks"
+  },
+  {
+    "type": "Search",
+    "url": "https://www.geeksforgeeks.org/find-minimum-element-in-a-sorted-and-rotated-array/",
+    "title": "Find the minimum element in a sorted and rotated array - GeeksforGeeks"
+  },
+  {
+    "type": "Search",
+    "url": "https://www.geeksforgeeks.org/kth-smallest-element-in-a-row-wise-and-column-wise-sorted-2d-array-set-1/",
+    "title": "Kth smallest element in a row-wise and column-wise sorted 2D array | Set 1 - GeeksforGeeks"
+  },
+  {
+    "type": "Search",
+    "url": "https://www.geeksforgeeks.org/search-almost-sorted-array/",
+    "title": "Search in an almost sorted array - GeeksforGeeks"
+  },
+  {
+    "type": "Search",
+    "url": "https://www.geeksforgeeks.org/find-k-closest-elements-given-value/",
+    "title": "Find k closest elements to a given value - GeeksforGeeks"
+  },
+  {
+    "type": "Search",
+    "url": "https://www.geeksforgeeks.org/kth-smallestlargest-element-unsorted-array-set-2-expected-linear-time-2/",
+    "title": "K&#039;th Smallest/Largest Element in Unsorted Array | Set 2 (Expected Linear Time) - GeeksforGeeks"
+  },
+  {
+    "type": "Search",
+    "url": "https://www.geeksforgeeks.org/find-the-nearest-smaller-numbers-on-left-side-in-an-array/",
+    "title": "Find the nearest smaller numbers on left side in an array - GeeksforGeeks"
+  },
+  {
+    "type": "Search",
+    "url": "https://www.geeksforgeeks.org/kth-largest-element-in-a-stream/",
+    "title": "K&#039;th largest element in a stream - GeeksforGeeks"
+  },
+  {
+    "type": "Search",
+    "url": "https://www.geeksforgeeks.org/find-the-element-that-appears-once-in-a-sorted-array/",
+    "title": "Find the element that appears once in a sorted array - GeeksforGeeks"
+  },
+  {
+    "type": "Search",
+    "url": "https://www.geeksforgeeks.org/find-the-element-that-odd-number-of-times-in-olog-n-time/",
+    "title": "Find the odd appearing element in O(Log n) time - GeeksforGeeks"
+  },
+  {
+    "type": "Search",
+    "url": "https://www.geeksforgeeks.org/search-an-element-in-an-array-where-difference-between-adjacent-elements-is-1/",
+    "title": "Search an element in an array where difference between adjacent elements is 1 - GeeksforGeeks"
+  },
+  {
+    "type": "Search",
+    "url": "https://www.geeksforgeeks.org/find-the-element-before-which-all-the-elements-are-smaller-than-it-and-after-which-all-are-greater-than-it/",
+    "title": "Find the element before which all the elements are smaller than it, and after which all are greater - GeeksforGeeks"
+  },
+  {
+    "type": "Array",
+    "url": "https://www.geeksforgeeks.org/print-all-possible-consecutive-numbers-with-sum-n/",
+    "title": "Print all possible consecutive numbers with sum N - GeeksforGeeks"
+  },
+  {
+    "type": "Search",
+    "url": "https://www.geeksforgeeks.org/minimum-time-required-produce-m-items/",
+    "title": "Minimum time required to produce m items - GeeksforGeeks"
   }
 ]
