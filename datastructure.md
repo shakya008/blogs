@@ -53,6 +53,15 @@
 [Print all possible consecutive numbers with sum N - GeeksforGeeks](https://www.geeksforgeeks.org/print-all-possible-consecutive-numbers-with-sum-n/)  
 ## Graph
 [Minimum number of swaps required to sort an array - GeeksforGeeks](https://www.geeksforgeeks.org/minimum-number-swaps-required-sort-array/)  
+[Topological Sorting - GeeksforGeeks](https://www.geeksforgeeks.org/topological-sorting/)  
+[Kahn&#039;s algorithm for Topological Sorting - GeeksforGeeks](https://www.geeksforgeeks.org/topological-sorting-indegree-based-solution/)  
+[Longest path between any pair of vertices - GeeksforGeeks](https://www.geeksforgeeks.org/longest-path-between-any-pair-of-vertices/)  
+[Printing Paths in Dijkstra&#039;s Shortest Path Algorithm - GeeksforGeeks](https://www.geeksforgeeks.org/printing-paths-dijkstras-shortest-path-algorithm/)  
+[Shortest Path in Directed Acyclic Graph - GeeksforGeeks](https://www.geeksforgeeks.org/shortest-path-for-directed-acyclic-graphs/)  
+[Dijsktra&#039;s algorithm](https://www.geeksforgeeks.org/dijkstras-shortest-path-algorithm-greedy-algo-7/)  
+[Prim’s Minimum Spanning Tree (MST) | Greedy Algo-5 - GeeksforGeeks](https://www.geeksforgeeks.org/prims-minimum-spanning-tree-mst-greedy-algo-5/)  
+[Kruskal’s Minimum Spanning Tree Algorithm | Greedy Algo-2 - GeeksforGeeks](https://www.geeksforgeeks.org/kruskals-minimum-spanning-tree-algorithm-greedy-algo-2/)  
+[Graph Data Structure And Algorithms - GeeksforGeeks](https://www.geeksforgeeks.org/graph-data-structure-and-algorithms/)  
 ## Search
 [Ceiling in a sorted array - GeeksforGeeks](https://www.geeksforgeeks.org/ceiling-in-a-sorted-array/)  
 [Count number of occurrences (or frequency) in a sorted array - GeeksforGeeks](https://www.geeksforgeeks.org/count-number-of-occurrences-or-frequency-in-a-sorted-array/)  

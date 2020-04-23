@@ -318,5 +318,50 @@
     "type": "Search",
     "url": "https://www.geeksforgeeks.org/minimum-time-required-produce-m-items/",
     "title": "Minimum time required to produce m items - GeeksforGeeks"
+  },
+  {
+    "type": "Graph",
+    "url": "https://www.geeksforgeeks.org/topological-sorting/",
+    "title": "Topological Sorting - GeeksforGeeks"
+  },
+  {
+    "type": "Graph",
+    "url": "https://www.geeksforgeeks.org/topological-sorting-indegree-based-solution/",
+    "title": "Kahn&#039;s algorithm for Topological Sorting - GeeksforGeeks"
+  },
+  {
+    "type": "Graph",
+    "url": "https://www.geeksforgeeks.org/longest-path-between-any-pair-of-vertices/",
+    "title": "Longest path between any pair of vertices - GeeksforGeeks"
+  },
+  {
+    "type": "Graph",
+    "url": "https://www.geeksforgeeks.org/printing-paths-dijkstras-shortest-path-algorithm/",
+    "title": "Printing Paths in Dijkstra&#039;s Shortest Path Algorithm - GeeksforGeeks"
+  },
+  {
+    "type": "Graph",
+    "url": "https://www.geeksforgeeks.org/shortest-path-for-directed-acyclic-graphs/",
+    "title": "Shortest Path in Directed Acyclic Graph - GeeksforGeeks"
+  },
+  {
+    "type": "Graph",
+    "url": "https://www.geeksforgeeks.org/dijkstras-shortest-path-algorithm-greedy-algo-7/",
+    "title": "Dijsktra&#039;s algorithm"
+  },
+  {
+    "type": "Graph",
+    "url": "https://www.geeksforgeeks.org/prims-minimum-spanning-tree-mst-greedy-algo-5/",
+    "title": "Prim’s Minimum Spanning Tree (MST) | Greedy Algo-5 - GeeksforGeeks"
+  },
+  {
+    "type": "Graph",
+    "url": "https://www.geeksforgeeks.org/kruskals-minimum-spanning-tree-algorithm-greedy-algo-2/",
+    "title": "Kruskal’s Minimum Spanning Tree Algorithm | Greedy Algo-2 - GeeksforGeeks"
+  },
+  {
+    "type": "Graph",
+    "url": "https://www.geeksforgeeks.org/graph-data-structure-and-algorithms/",
+    "title": "Graph Data Structure And Algorithms - GeeksforGeeks"
   }
 ]
