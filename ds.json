@@ -363,5 +363,114 @@
     "type": "Graph",
     "url": "https://www.geeksforgeeks.org/graph-data-structure-and-algorithms/",
     "title": "Graph Data Structure And Algorithms - GeeksforGeeks"
+  },
+  {
+    "type": "Graph",
+    "url": "https://www.geeksforgeeks.org/longest-path-directed-acyclic-graph-set-2/",
+    "title": "Longest Path in a Directed Acyclic Graph | Set 2 - GeeksforGeeks"
+  },
+  {
+    "type": "Graph",
+    "url": "https://www.geeksforgeeks.org/find-longest-path-directed-acyclic-graph/",
+    "title": "Longest Path in a Directed Acyclic Graph - GeeksforGeeks"
+  },
+  {
+    "type": "Graph",
+    "url": "https://www.geeksforgeeks.org/longest-path-in-a-directed-acyclic-graph-dynamic-programming/?ref=rp",
+    "title": "Longest path in a directed Acyclic graph | Dynamic Programming - GeeksforGeeks"
+  },
+  {
+    "type": "Hash",
+    "url": "https://www.geeksforgeeks.org/print-binary-tree-vertical-order-set-2/",
+    "title": "Print a Binary Tree in Vertical Order | Set 2 (Map based Method) - GeeksforGeeks"
+  },
+  {
+    "type": "Hash",
+    "url": "https://www.geeksforgeeks.org/minimum-operation-make-elements-equal-array/",
+    "title": "Minimum operation to make all elements equal in array - GeeksforGeeks"
+  },
+  {
+    "type": "Hash",
+    "url": "https://www.geeksforgeeks.org/maximum-distance-two-occurrences-element-array/",
+    "title": "Maximum distance between two occurrences of same element in array - GeeksforGeeks"
+  },
+  {
+    "type": "Hash",
+    "url": "https://www.geeksforgeeks.org/given-an-array-of-pairs-find-all-symmetric-pairs-in-it/",
+    "title": "Given an array of pairs, find all symmetric pairs in it - GeeksforGeeks"
+  },
+  {
+    "type": "Hash",
+    "url": "https://www.geeksforgeeks.org/find-repetitive-element-1-n-1/",
+    "title": "Find the only repetitive element between 1 to n-1 - GeeksforGeeks"
+  },
+  {
+    "url": "https://www.geeksforgeeks.org/group-multiple-occurrence-of-array-elements-ordered-by-first-occurrence/",
+    "title": "Group multiple occurrence of array elements ordered by first occurrence - GeeksforGeeks"
+  },
+  {
+    "type": "Hash",
+    "url": "https://www.geeksforgeeks.org/find-itinerary-from-a-given-list-of-tickets/",
+    "title": "Find Itinerary from a given list of tickets - GeeksforGeeks"
+  },
+  {
+    "type": "Hash",
+    "url": "https://www.geeksforgeeks.org/find-number-of-employees-under-every-manager/",
+    "title": "Find number of Employees Under every Employee - GeeksforGeeks"
+  },
+  {
+    "type": "Hash",
+    "url": "https://www.geeksforgeeks.org/check-if-an-array-can-be-divided-into-pairs-whose-sum-is-divisible-by-k/",
+    "title": "Check if an array can be divided into pairs whose sum is divisible by k - GeeksforGeeks"
+  },
+  {
+    "type": "Hash",
+    "url": "https://www.geeksforgeeks.org/find-three-element-from-different-three-arrays-such-that-that-a-b-c-k/",
+    "title": "Find three element from different three arrays such that a + b + c = sum - GeeksforGeeks"
+  },
+  {
+    "type": "Hash",
+    "url": "https://www.geeksforgeeks.org/find-the-largest-subarray-with-0-sum/",
+    "title": "Find the length of largest subarray with 0 sum - GeeksforGeeks"
+  },
+  {
+    "type": "Hash",
+    "url": "https://www.geeksforgeeks.org/longest-increasing-consecutive-subsequence/",
+    "title": "Longest Increasing consecutive subsequence - GeeksforGeeks"
+  },
+  {
+    "type": "Hash",
+    "url": "https://www.geeksforgeeks.org/printing-longest-increasing-consecutive-subsequence/",
+    "title": "Printing longest Increasing consecutive subsequence - GeeksforGeeks"
+  },
+  {
+    "type": "Hash",
+    "url": "https://www.geeksforgeeks.org/longest-subsequence-difference-adjacents-one-set-2/",
+    "title": "Longest subsequence such that difference between adjacents is one | Set 2 - GeeksforGeeks"
+  },
+  {
+    "type": "Hash",
+    "url": "https://www.geeksforgeeks.org/design-a-data-structure-that-supports-insert-delete-search-and-getrandom-in-constant-time/",
+    "title": "Design a data structure that supports insert, delete, search and getRandom in constant time - GeeksforGeeks"
+  },
+  {
+    "type": "Hash",
+    "url": "https://www.geeksforgeeks.org/find-if-there-is-a-subarray-with-0-sum/",
+    "title": "Find if there is a subarray with 0 sum - GeeksforGeeks"
+  },
+  {
+    "type": "Hash",
+    "url": "https://www.geeksforgeeks.org/print-all-subarrays-with-0-sum/",
+    "title": "Print all subarrays with 0 sum - GeeksforGeeks"
+  },
+  {
+    "type": "Hash",
+    "url": "https://www.geeksforgeeks.org/find-subarray-with-given-sum-in-array-of-integers/",
+    "title": "Find subarray with given sum | Set 2 (Handles Negative Numbers) - GeeksforGeeks"
+  },
+  {
+    "type": "Array",
+    "url": "https://leetcode.com/problems/find-the-duplicate-number/",
+    "title": "Loading..."
   }
 ]

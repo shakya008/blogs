@@ -3,6 +3,7 @@
 		"Matrix",
 		"Graph",
 		"Heap",
+		"Hash",
 		"Array",
 		"Stack",
 		"Queue",
