@@ -66,6 +66,11 @@
 [Longest Path in a Directed Acyclic Graph | Set 2 - GeeksforGeeks](https://www.geeksforgeeks.org/longest-path-directed-acyclic-graph-set-2/)  
 [Longest Path in a Directed Acyclic Graph - GeeksforGeeks](https://www.geeksforgeeks.org/find-longest-path-directed-acyclic-graph/)  
 [Longest path in a directed Acyclic graph | Dynamic Programming - GeeksforGeeks](https://www.geeksforgeeks.org/longest-path-in-a-directed-acyclic-graph-dynamic-programming/?ref=rp)  
+[Check if two nodes are on same path in a tree - GeeksforGeeks](https://www.geeksforgeeks.org/check-if-two-nodes-are-on-same-path-in-a-tree/)  
+[Find length of the largest region in Boolean Matrix - GeeksforGeeks](https://www.geeksforgeeks.org/find-length-largest-region-boolean-matrix/)  
+[Find the number of islands | Set 1 (Using DFS) - GeeksforGeeks](https://www.geeksforgeeks.org/find-number-of-islands/)  
+[Minimum steps to reach target by a Knight | Set 1 - GeeksforGeeks](https://www.geeksforgeeks.org/minimum-steps-reach-target-knight/)  
+[Check if a given graph is tree or not - GeeksforGeeks](https://www.geeksforgeeks.org/check-given-graph-tree/)  
 ## Search
 [Ceiling in a sorted array - GeeksforGeeks](https://www.geeksforgeeks.org/ceiling-in-a-sorted-array/)  
 [Count number of occurrences (or frequency) in a sorted array - GeeksforGeeks](https://www.geeksforgeeks.org/count-number-of-occurrences-or-frequency-in-a-sorted-array/)  

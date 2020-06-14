@@ -12,3 +12,6 @@
 ## Node Modules
 [request-promise  -  npm](https://www.npmjs.com/package/request-promise)  
 [text-security  -  npm](https://www.npmjs.com/package/text-security)  
+## JavaScript
+[Function expressions](https://javascript.info/function-expressions)  
+[Function Declarations vs. Function Expressions &#8211; JavaScript, JavaScript&#8230;](https://javascriptweblog.wordpress.com/2010/07/06/function-declarations-vs-function-expressions/)  

@@ -58,5 +58,15 @@
     "type": "Web Optimization",
     "url": "https://medium.com/@luisvieira_gmr/understanding-the-critical-rendering-path-rendering-pages-in-1-second-735c6e45b47a",
     "title": "Understanding the critical rendering path, rendering pages in 1 second"
+  },
+  {
+    "type": "JavaScript",
+    "url": "https://javascript.info/function-expressions",
+    "title": "Function expressions"
+  },
+  {
+    "type": "JavaScript",
+    "url": "https://javascriptweblog.wordpress.com/2010/07/06/function-declarations-vs-function-expressions/",
+    "title": "Function Declarations vs. Function Expressions &#8211; JavaScript, JavaScript&#8230;"
   }
 ]
