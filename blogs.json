@@ -68,5 +68,54 @@
     "type": "JavaScript",
     "url": "https://javascriptweblog.wordpress.com/2010/07/06/function-declarations-vs-function-expressions/",
     "title": "Function Declarations vs. Function Expressions &#8211; JavaScript, JavaScript&#8230;"
+  },
+  {
+    "type": "Angular",
+    "url": "https://angular-academy.com/angular-architecture-best-practices/",
+    "title": "Angular Architecture Patterns and Best Practices (that help to scale) | Angular Academy"
+  },
+  {
+    "type": "Angular",
+    "url": "https://www.youtube.com/watch?v=vGKRKDPGUSs",
+    "title": "Todd Motto - Angular Architecture: From Patterns to Implementation - YouTube"
+  },
+  {
+    "type": "JavaScript",
+    "url": "https://medium.com/@pranjali.roy/currying-interview-questions-2a6823867551",
+    "title": "Currying - Interview Questions - Pranjali Roy - Medium"
+  },
+  {
+    "type": "JavaScript",
+    "url": "https://javascript.info/currying-partials",
+    "title": "Currying"
+  },
+  {
+    "type": "JavaScript",
+    "url": "https://scotch.io/bar-talk/4-javascript-design-patterns-you-should-know",
+    "title": "4 JavaScript Design Patterns You Should Know &#8213; Scotch.io"
+  },
+  {
+    "url": "https://www.codementor.io/@babscraig/javascript-design-patterns-part-1-the-factory-pattern-py9afzwid",
+    "title": "JavaScript Design Patterns Part 1: The Factory Pattern | Codementor"
+  },
+  {
+    "type": "JavaScript",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/create#:~:text=The%20Object.,of%20the%20newly%20created%20object.",
+    "title": "Object.create() - JavaScript | MDN"
+  },
+  {
+    "type": "JavaScript",
+    "url": "https://jsmanifest.com/the-publish-subscribe-pattern-in-javascript/#:~:text=The%20pattern%20is%20quite%20common,in%20between%20the%20publisher%20and",
+    "title": "The Publish/Subscribe Pattern in JavaScript – JSManifest"
+  },
+  {
+    "type": "JavaScript",
+    "url": "https://rxjs-dev.firebaseapp.com/guide/observable",
+    "title": "RxJS"
+  },
+  {
+    "type": "JavaScript",
+    "url": "https://blog.thoughtram.io/angular/2016/06/16/cold-vs-hot-observables.html",
+    "title": "Cold vs Hot Observables | Articles by thoughtram"
   }
 ]

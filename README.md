@@ -15,3 +15,15 @@
 ## JavaScript
 [Function expressions](https://javascript.info/function-expressions)  
 [Function Declarations vs. Function Expressions &#8211; JavaScript, JavaScript&#8230;](https://javascriptweblog.wordpress.com/2010/07/06/function-declarations-vs-function-expressions/)  
+[Currying - Interview Questions - Pranjali Roy - Medium](https://medium.com/@pranjali.roy/currying-interview-questions-2a6823867551)  
+[Currying](https://javascript.info/currying-partials)  
+[4 JavaScript Design Patterns You Should Know &#8213; Scotch.io](https://scotch.io/bar-talk/4-javascript-design-patterns-you-should-know)  
+[Object.create() - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/create#:~:text=The%20Object.,of%20the%20newly%20created%20object.)  
+[The Publish/Subscribe Pattern in JavaScript – JSManifest](https://jsmanifest.com/the-publish-subscribe-pattern-in-javascript/#:~:text=The%20pattern%20is%20quite%20common,in%20between%20the%20publisher%20and)  
+[RxJS](https://rxjs-dev.firebaseapp.com/guide/observable)  
+[Cold vs Hot Observables | Articles by thoughtram](https://blog.thoughtram.io/angular/2016/06/16/cold-vs-hot-observables.html)  
+## Angular
+[Angular Architecture Patterns and Best Practices (that help to scale) | Angular Academy](https://angular-academy.com/angular-architecture-best-practices/)  
+[Todd Motto - Angular Architecture: From Patterns to Implementation - YouTube](https://www.youtube.com/watch?v=vGKRKDPGUSs)  
+## undefined
+[JavaScript Design Patterns Part 1: The Factory Pattern | Codementor](https://www.codementor.io/@babscraig/javascript-design-patterns-part-1-the-factory-pattern-py9afzwid)  
