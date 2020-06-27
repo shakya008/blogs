@@ -22,8 +22,18 @@
 [The Publish/Subscribe Pattern in JavaScript – JSManifest](https://jsmanifest.com/the-publish-subscribe-pattern-in-javascript/#:~:text=The%20pattern%20is%20quite%20common,in%20between%20the%20publisher%20and)  
 [RxJS](https://rxjs-dev.firebaseapp.com/guide/observable)  
 [Cold vs Hot Observables | Articles by thoughtram](https://blog.thoughtram.io/angular/2016/06/16/cold-vs-hot-observables.html)  
+[Understanding Event Loop, Call Stack, Event &amp; Job Queue in Javascript](https://medium.com/@Rahulx1/understanding-event-loop-call-stack-event-job-queue-in-javascript-63dcd2c71ecd)  
+[Asynchronous JavaScript - Learn web development | MDN](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous)  
+[Sending data across different browser tabs - Arnelle’s Blog](https://blog.arnellebalane.com/sending-data-across-different-browser-tabs-6225daac93ec)  
 ## Angular
 [Angular Architecture Patterns and Best Practices (that help to scale) | Angular Academy](https://angular-academy.com/angular-architecture-best-practices/)  
 [Todd Motto - Angular Architecture: From Patterns to Implementation - YouTube](https://www.youtube.com/watch?v=vGKRKDPGUSs)  
 ## undefined
 [JavaScript Design Patterns Part 1: The Factory Pattern | Codementor](https://www.codementor.io/@babscraig/javascript-design-patterns-part-1-the-factory-pattern-py9afzwid)  
+## Design pattern
+[Angular Architecture Patterns and Best Practices (that help to scale) | Angular Academy](https://angular-academy.com/angular-architecture-best-practices)  
+[Design Patterns in Java Tutorial - Tutorialspoint](https://www.tutorialspoint.com/design_pattern/index.htm)  
+[Becoming a better developer by using the SOLID design principles by Katerina Trajchevska - YouTube](https://www.youtube.com/watch?v=rtmFCcjEgEw)  
+[JavaScript Design Patterns - doFactory.com](https://www.dofactory.com/javascript/design-patterns)  
+## Question and solutions
+[A Tricky JavaScript Interview Question Asked by Google and Amazon](https://medium.com/coderbyte/a-tricky-javascript-interview-question-asked-by-google-and-amazon-48d212890703)  

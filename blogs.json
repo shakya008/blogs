@@ -117,5 +117,45 @@
     "type": "JavaScript",
     "url": "https://blog.thoughtram.io/angular/2016/06/16/cold-vs-hot-observables.html",
     "title": "Cold vs Hot Observables | Articles by thoughtram"
+  },
+  {
+    "type": "Design pattern",
+    "url": "https://angular-academy.com/angular-architecture-best-practices",
+    "title": "Angular Architecture Patterns and Best Practices (that help to scale) | Angular Academy"
+  },
+  {
+    "type": "Design pattern",
+    "url": "https://www.tutorialspoint.com/design_pattern/index.htm",
+    "title": "Design Patterns in Java Tutorial - Tutorialspoint"
+  },
+  {
+    "type": "Design pattern",
+    "url": "https://www.youtube.com/watch?v=rtmFCcjEgEw",
+    "title": "Becoming a better developer by using the SOLID design principles by Katerina Trajchevska - YouTube"
+  },
+  {
+    "type": "Design pattern",
+    "url": "https://www.dofactory.com/javascript/design-patterns",
+    "title": "JavaScript Design Patterns - doFactory.com"
+  },
+  {
+    "type": "JavaScript",
+    "url": "https://medium.com/@Rahulx1/understanding-event-loop-call-stack-event-job-queue-in-javascript-63dcd2c71ecd",
+    "title": "Understanding Event Loop, Call Stack, Event &amp; Job Queue in Javascript"
+  },
+  {
+    "type": "JavaScript",
+    "url": "https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous",
+    "title": "Asynchronous JavaScript - Learn web development | MDN"
+  },
+  {
+    "type": "Question and solutions",
+    "url": "https://medium.com/coderbyte/a-tricky-javascript-interview-question-asked-by-google-and-amazon-48d212890703",
+    "title": "A Tricky JavaScript Interview Question Asked by Google and Amazon"
+  },
+  {
+    "type": "JavaScript",
+    "url": "https://blog.arnellebalane.com/sending-data-across-different-browser-tabs-6225daac93ec",
+    "title": "Sending data across different browser tabs - Arnelle’s Blog"
   }
 ]

@@ -16,9 +16,11 @@
 	"blogs": [
 		"Angular",
 		"JavaScript",
+		"Question and solutions",
 		"Web Optimization",
 		"Node Modules",
 		"HTTP",
-		"Best Practices"
+		"Best Practices",
+		"Design pattern"
 	]
 }
